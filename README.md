@@ -8,8 +8,6 @@
 ## 🛠️ Currently Learning
 
 - C Programming
-- Python
-- Data Structures & Algorithms
 - Git & GitHub
 - Cybersecurity
 

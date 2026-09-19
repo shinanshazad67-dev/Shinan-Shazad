@@ -1,6 +1,6 @@
 # Hi, I'm Shinan Shazad 👋
 
-🎓 B.Tech CSE Student  
+🎓 B.Tech CSE (CYBER SECURITY) Student  
 💻 Learning C Programming  
 🔐 Interested in Cybersecurity  
 🚀 Building my programming and problem-solving skills
